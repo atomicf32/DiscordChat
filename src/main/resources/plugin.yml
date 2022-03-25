@@ -1,0 +1,6 @@
+name: DiscordChat
+version: 2.2
+main: nullfedora.discordchat.DiscordChat
+api-version: 1.18
+authors: [ nullfedora ]
+description: Shows chat in a discord webhook
